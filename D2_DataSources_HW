@@ -1,0 +1,24 @@
+class Counter
+	Properties: ??
+	Methods:
+		int CountWords(??)
+??
+
+class RandomStringDataSource
+	Base Class/Interfaces: ??
+	Properties: get/set string
+	Methods: Split()
+class FileDataSource
+	Base Class/Interfaces: ??
+	Properties: get/set data source
+	Methods: Split()
+class InternetDataSource
+	Base Class/Interfaces: ??
+	Properties: get/set data source
+	Methods: Split()
+
+??
+
+??
+
+??
